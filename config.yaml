@@ -1,0 +1,31 @@
+baseURL: "http://teleport-cop.github.io/"
+languageCode: "en-us"
+title: "Teleport Communities of Practice"
+theme: PaperMod
+
+params:
+  ShowPostNavLinks: 'true'
+  ShowBreadCrumbs: 'true'
+
+  homeInfoParams:
+    Title: Welcome to The Teleport Communities of Practice GiHub page.
+    Content: See the navigation menu at the top.
+
+  socialIcons:
+    - name: "Slack"
+      url: "https://goteleport.slack.com/"
+
+menu:
+  main:
+    - identifier: categories
+      name: contributions
+      url: /contributions/
+      weight: 10
+    - identifier: repositories
+      name: repositories
+      url: /repositories/
+      weight: 20
+    - identifier: contact
+      name: contact
+      url: /contact/
+      weight: 30
