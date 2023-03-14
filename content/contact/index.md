@@ -1,7 +1,7 @@
 ---
 title: "Contacts"
 date: 2023-03-13T12:08:00-04:00
-draft: true
+draft: false
 showToc: false
 layout: "contact"
 url: "/contact"
