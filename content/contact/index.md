@@ -15,3 +15,4 @@ The following individuals have a vested interest in the overall health and stabi
 
 * Allen Vailliencourt ([@valien](https://github.com/valien))
 * Gus Luxton ([@webvictim](https://github.com/webvictim))
+* Dan Kirkwood ([dgkirkwood](https://github.com/dgkirkwood))
